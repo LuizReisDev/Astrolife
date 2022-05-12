@@ -28,3 +28,6 @@ INÍCIO DAS EXPLICAÇÕES GERAIS DESTE PROJETO:
 
 O arquivo index.html é a página principal do nosso site.
 
+==========================================================================
+
+Acesse este link caso queira ver este projeto no ar: https://luiz-fernando-sys.github.io/Astrolife/
